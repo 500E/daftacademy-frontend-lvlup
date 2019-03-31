@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Gabriela|Open+Sans:400,700');
+
+$color-white: #fff;
+$color-azure: #eef8f6;
+$color-grayish-cyan: #bed3cf;
+$color-dark-blue: #27354f;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

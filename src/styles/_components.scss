@@ -1,0 +1,113 @@
+body {
+  background-color: $color-white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: $color-grayish-cyan;
+  text-decoration: none;
+}
+
+.container {
+  background-color: $color-azure;
+}
+
+.page-title {
+  font-size: 1.4rem;
+  color: $color-dark-blue;
+  letter-spacing: 4px;
+  font-family: 'Gabriela', serif;
+  border: 2px solid $color-dark-blue;
+  opacity: 0.7;
+}
+
+.page-footer {
+  font-size: 0.8rem;
+}
+
+.address {
+  color: $color-grayish-cyan;
+  font-style: normal;
+
+  &__email {
+    color: $color-dark-blue;
+  }
+}
+
+.social {
+  &__title {
+    font-weight: 100;
+    color: $color-grayish-cyan;
+    letter-spacing: 1px;
+  }
+}
+
+.gallery {
+  &__item {
+    box-shadow: 0 0 20px -7px $color-dark-blue;
+    &:hover {
+      border: 5px solid #ffe1b5;
+      cursor: pointer;
+    }
+  }
+  &__link {
+    font-weight: 700;
+    font-size: 2em;
+    color: $color-white;
+  }
+}
+
+// Images of drinks
+
+.bijou,
+.negroni,
+.mojito,
+.texas,
+.egg,
+.zinger {
+  background-position: center;
+  background-size: cover;
+}
+
+.bijou {
+  background-image: url(../assets/bijou.jpg);
+}
+
+.negroni {
+  background-image: url(../assets/negroni.jpg);
+}
+
+.mojito {
+  background-image: url(../assets/mojito.jpg);
+}
+
+.texas {
+  background-image: url(../assets/rattlesnake.jpg);
+}
+
+.egg {
+  background-image: url(../assets/eggnogg.jpg);
+}
+
+.zinger {
+  background-image: url(../assets/zinger.jpg);
+}
+
+// Scrollbar
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+::-webkit-scrollbar-track {
+  background: $color-azure;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $color-grayish-cyan;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $color-grayish-cyan;
+}
