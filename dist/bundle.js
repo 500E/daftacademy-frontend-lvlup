@@ -150,7 +150,7 @@ eval("\n/**\n * When source maps are enabled, `style-loader` uses a link element
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"images/bijou.43b371d63832ba0270f859bb9e510199.jpg\";\n\n//# sourceURL=webpack:///./src/assets/bijou.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/bijou.jpg\";\n\n//# sourceURL=webpack:///./src/assets/bijou.jpg?");
 
 /***/ }),
 
@@ -161,7 +161,7 @@ eval("module.exports = __webpack_require__.p + \"images/bijou.43b371d63832ba0270
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"images/eggnogg.101b52b99d9fcbbc854de58e04359fe5.jpg\";\n\n//# sourceURL=webpack:///./src/assets/eggnogg.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/eggnogg.jpg\";\n\n//# sourceURL=webpack:///./src/assets/eggnogg.jpg?");
 
 /***/ }),
 
@@ -172,7 +172,7 @@ eval("module.exports = __webpack_require__.p + \"images/eggnogg.101b52b99d9fcbbc
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"images/mojito.1cf6850fc38021d1efa24eca2e9c8c8f.jpg\";\n\n//# sourceURL=webpack:///./src/assets/mojito.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/mojito.jpg\";\n\n//# sourceURL=webpack:///./src/assets/mojito.jpg?");
 
 /***/ }),
 
@@ -183,7 +183,7 @@ eval("module.exports = __webpack_require__.p + \"images/mojito.1cf6850fc38021d1e
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"images/negroni.6733c1bc95b68e7309e4329bf4687620.jpg\";\n\n//# sourceURL=webpack:///./src/assets/negroni.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/negroni.jpg\";\n\n//# sourceURL=webpack:///./src/assets/negroni.jpg?");
 
 /***/ }),
 
@@ -194,7 +194,7 @@ eval("module.exports = __webpack_require__.p + \"images/negroni.6733c1bc95b68e73
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"images/rattlesnake.1d1d8ebb5aed267f4142a8860cbae8e7.jpg\";\n\n//# sourceURL=webpack:///./src/assets/rattlesnake.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/rattlesnake.jpg\";\n\n//# sourceURL=webpack:///./src/assets/rattlesnake.jpg?");
 
 /***/ }),
 
@@ -205,7 +205,7 @@ eval("module.exports = __webpack_require__.p + \"images/rattlesnake.1d1d8ebb5aed
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"images/zinger.2327579191b2b14e53735d0fb3237f03.jpg\";\n\n//# sourceURL=webpack:///./src/assets/zinger.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/zinger.jpg\";\n\n//# sourceURL=webpack:///./src/assets/zinger.jpg?");
 
 /***/ }),
 
